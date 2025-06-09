@@ -12,11 +12,14 @@
               Track your vaccinations, find nearby clinics, and stay informed about your health with VaxPoint's comprehensive healthcare solutions.
             </p>
             <div class="d-flex gap-4">
-              <v-btn
+              <v-btn  
                 size="x-large"
                 color="secondary"
                 class="text-uppercase"
-                to="/vaccines"
+              
+              1
+               to="/sign-up"
+             
               >
                 Get Started
               </v-btn>
@@ -33,7 +36,7 @@
           </v-col>
           <v-col cols="12" md="6" class="d-none d-md-flex justify-center">
             <v-img
-              src="https://images.pexels.com/photos/3786157/pexels-photo-3786157.jpeg"
+              src="/vaccine.jpg"
               max-width="250"
               max-height="350"
               class="rounded-lg"
@@ -153,7 +156,7 @@
               class="text-uppercase"
               to="/sign-up"
             >
-              Get Started Now
+              Sign Up Now
             </v-btn>
           </v-col>
         </v-row>

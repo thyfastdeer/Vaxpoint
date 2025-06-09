@@ -303,7 +303,7 @@ const clinics = ref([
     distance: 1.2,
     lat: -1.2864,
     lng: 36.8172,
-    image: 'https://images.unsplash.com/photo-1576091160399-112ba8b25a02?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+    image: 'https://images.pexels.com/photos/1692693/pexels-photo-1692693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     vaccines: ['COVID-19', 'Influenza', 'Hepatenta B', 'MMR']
   },
   {

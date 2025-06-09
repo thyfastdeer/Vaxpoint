@@ -160,7 +160,7 @@ const upcomingVaccines = ref([
 ])
 
 const healthStats = ref({
-  vaccinesCompleted: 12,
+  vaccinesCompleted: 0,
   upcomingAppointments: 2,
   clinicsNearby: 8,
   daysToNextVaccine: 15
